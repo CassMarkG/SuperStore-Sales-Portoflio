@@ -5,7 +5,8 @@ I did this project in;
 
 1.Python Jupyter Notebook
 
-![image](https://github.com/CassMarkG/SuperStore-Sales-Portoflio/assets/78866517/1c64331f-cccd-4c48-a9fc-023074fcbf45)
+![image](https://github.com/CassMarkG/SuperStore-Sales-Portoflio/assets/78866517/72794711-c13f-4345-adcc-65d36e1e0073)
+
 
 ![image](https://github.com/CassMarkG/SuperStore-Sales-Portoflio/assets/78866517/df70f9d7-869d-4400-b725-9d7635a7cbb4)
 
